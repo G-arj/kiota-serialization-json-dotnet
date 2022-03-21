@@ -8,7 +8,7 @@ A [Kiota](https://github.com/microsoft/kiota) generated project will need a refe
 
 Read more about Kiota [here](https://github.com/microsoft/kiota/blob/main/README.md).
 
-## Using the Abstractions Library
+## Using the Kiota Json Serialization Library
 
 ```shell
 dotnet add package Microsoft.Kiota.Serialization.Json
